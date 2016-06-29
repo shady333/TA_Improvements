@@ -17,7 +17,8 @@
         </activity>
         <activity android:name=".DB_Improvements" />
         <activity android:name=".Parallelization_Improvement" />
-        <activity android:name=".BadCode_Improvements"></activity>
+        <activity android:name=".BadCode_Improvements" />
+        <activity android:name=".TypeOfApplication"></activity>
     </application>
 
 </manifest>
